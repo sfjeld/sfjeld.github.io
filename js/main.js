@@ -1,4 +1,3 @@
-
 // grab node you want to append template to
 var $optionsContainer = $('#options-display');
 
